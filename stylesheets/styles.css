@@ -4,7 +4,6 @@
     font-family: 'Ma Shan Zheng';
 }
 
-
 body {
   background-color: #fff;
   padding:0px;
@@ -66,7 +65,7 @@ papertitle {
     }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#043361;
   margin:0 0 20px;
 }
 
