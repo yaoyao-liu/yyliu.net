@@ -23,5 +23,5 @@ Disallow: /mpii_files
 Disallow: /index1.html
 Disallow: /index2.html
 
-Sitemap: https://mpi-inf.mpg.de/~yaliu/sitemap.xml
+Sitemap: https://people.mpi-inf.mpg.de/~yaliu/sitemap.xml
 
