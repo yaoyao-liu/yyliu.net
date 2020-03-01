@@ -5,43 +5,43 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://people.mpi-inf.mpg.de/~yaliu/index.html</loc>
+    <loc>https://mpi-inf.mpg.de/~yaliu/index.html</loc>
     <changefreq>Monthly</changefreq>
     <priority>1</priority>
     <lastmod>2019-10-09T02:15:27Z</lastmod>
   </url>
   <url>
-    <loc>https://people.mpi-inf.mpg.de/~yaliu/meta-transfer-learning/index.html</loc>
+    <loc>https://mpi-inf.mpg.de/~yaliu/meta-transfer-learning/index.html</loc>
     <changefreq>Monthly</changefreq>
     <priority>0.70</priority>
     <lastmod>2019-10-09T02:15:27Z</lastmod>
   </url>
   <url>
-    <loc>https://people.mpi-inf.mpg.de/~yaliu/meta-transfer-learning/download/index.html</loc>
+    <loc>https://mpi-inf.mpg.de/~yaliu/meta-transfer-learning/download/index.html</loc>
     <changefreq>Monthly</changefreq>
     <priority>0.70</priority>
     <lastmod>2019-10-09T02:15:27Z</lastmod>
   </url>
   <url>
-    <loc>https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf</loc>
+    <loc>https://mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf</loc>
     <changefreq>Monthly</changefreq>
     <priority>0.70</priority>
     <lastmod>2019-10-09T02:15:27Z</lastmod>
   </url>
   <url>
-    <loc>https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf</loc>
+    <loc>https://mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf</loc>
     <changefreq>Monthly</changefreq>
     <priority>0.70</priority>
     <lastmod>2019-10-09T02:15:27Z</lastmod>
   </url>
   <url>
-    <loc>https://people.mpi-inf.mpg.de/~yaliu/files/msr-video-to-language-challenge.pdf</loc>
+    <loc>https://mpi-inf.mpg.de/~yaliu/files/msr-video-to-language-challenge.pdf</loc>
     <changefreq>Monthly</changefreq>
     <priority>0.70</priority>
     <lastmod>2019-10-09T02:15:27Z</lastmod>
   </url>
   <url>
-    <loc>https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf</loc>
+    <loc>https://mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf</loc>
     <changefreq>Monthly</changefreq>
     <priority>0.70</priority>
     <lastmod>2019-10-09T02:15:27Z</lastmod>
