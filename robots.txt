@@ -21,9 +21,7 @@ Disallow: /.gitignore
 Disallow: /git-update.sh
 Disallow: /README.md
 Disallow: /mpii_files
-Disallow: /index1.html
-Disallow: /index2.html
-Disallow: /index3.html
+Disallow: /backup
 
-Sitemap: https://mpi-inf.mpg.de/~yaliu/sitemap.xml
+Sitemap: https://people.mpi-inf.mpg.de/~yaliu/sitemap.xml
 
