@@ -23,5 +23,5 @@ Disallow: /README.md
 Disallow: /mpii_files
 Disallow: /backup
 
-Sitemap: https://people.mpi-inf.mpg.de/~yaliu/sitemap.xml
+Sitemap: https://mpi-inf.mpg.de/~yaliu/sitemap.xml
 
