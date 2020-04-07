@@ -43,6 +43,18 @@
       gtag('config', 'UA-111540567-4');
     </script>
 
+    <script type="text/javascript">
+    function toggleBibtex(articleid) {
+      var bib = document.getElementById(articleid);
+        if(bib.style.display == "none") {
+          bib.style.display = "";
+        }
+        else {
+          bib.style.display = "none";
+        }
+    }
+    </script>
+
 
 
   </head>
@@ -103,6 +115,11 @@
                 IEEE Conference on Computer Vision and Pattern Recognition. <strong>CVPR 2020</strong>.
                 <br>
                 [<a href="https://arxiv.org/pdf/2002.10211.pdf" target="_blank" rel="noopener">PDF</a>] [<a href="https://github.com/yaoyao-liu/mnemonics" target="_blank" rel="noopener">Code</a>] [<a href="https://mnemonics.yyliu.net/" target="_blank" rel="noopener">Project</a>]
+                [<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">BibTex</a>]
+                <div class="bibref">
+                    @inproceedings{liu2020mnemonics<br>author = {Liu, Yaoyao and Su, Yuting and Liu, An{-}An and Schiele, Bernt and Sun, Qianru},<br>title = {Mnemonics Training: Multi-Class Incremental Learning without Forgetting},<br>booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},<br>year={2020}<br>}
+                </div></bibtex>
+
                 <strong><i style="color:#e74d3c; font-weight:600">Oral Presentation</i></strong>
 
 
