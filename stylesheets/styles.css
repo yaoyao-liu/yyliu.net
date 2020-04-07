@@ -14,7 +14,7 @@ autocolor{
 }
 
 lightonly {
-  visibility: display;
+  visibility: visible;
 }
 
 darkonly {
@@ -40,7 +40,7 @@ darkonly {
     }
 
     darkonly {
-      visibility: display;
+      visibility: visible;
     }
 
 }
