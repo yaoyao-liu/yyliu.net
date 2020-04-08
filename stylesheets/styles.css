@@ -21,18 +21,27 @@ darkonly {
   visibility: hidden;
 }
 
+education {
+    font-weight: 500;
+    font-size: 115%;
+  }
+papertitle {
+    font-weight: 600;
+    font-size: 100%;
+  }
+
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #272935;
-        color: #f8f8f2;
+        background-color: #20212b;
+        color: #dadbdf;
     }
 
     h3, h4, h5, h6 {
-      color:#f8f8f2;
+      color:#dadbdf;
     }
 
     autocolor{
-      color:#f8f8f2;
+      color:#dadbdf;
     }
 
     lightonly {
@@ -43,16 +52,12 @@ darkonly {
       visibility: visible;
     }
 
+    papertitle {
+    color:#eeeff0;
+    }
+
 }
-  
-education {
-    font-weight: 500;
-    font-size: 115%;
-  }
-papertitle {
-    font-weight: 600;
-    font-size: 100%;
-  }
+
 
   .image {
     border-radius: 0.35em;
@@ -272,7 +277,7 @@ strong {
 
 @media (prefers-color-scheme: dark) {
   strong {
-    color:#FFF;
+    color:#eeeff0;
   }
 }
 
