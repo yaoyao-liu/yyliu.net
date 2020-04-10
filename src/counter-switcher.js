@@ -1,7 +1,7 @@
 ;(function(mod){
 function collectLinks() {
   return Array.prototype.slice.apply(
-    document.head.querySelectorAll('script[id*="clustrmaps"]')
+    document.head.querySelectorAll('clustrmaps[id*="clustrmaps old"]')
   )
 }
 
@@ -24,7 +24,7 @@ function initSwitcher(delay) {
   current.setAttribute('id', 'clustrmaps new')
   document.head.appendChild(current)
 
-  function faviconApplyLoop() {
+  function counterApplyLoop() {
     var matched
 
     links.forEach(function(link) {
