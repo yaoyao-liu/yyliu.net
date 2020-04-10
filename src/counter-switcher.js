@@ -1,7 +1,7 @@
 ;(function(mod){
 function collectLinks() {
   return Array.prototype.slice.apply(
-    document.head.querySelectorAll('clustrmaps[id*="clustrmaps old"]')
+    document.head.querySelectorAll('script[id*="clustrmaps"]')
   )
 }
 
