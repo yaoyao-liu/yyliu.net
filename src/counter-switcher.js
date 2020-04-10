@@ -1,7 +1,7 @@
 ;(function(mod){
 function collectLinks() {
   return Array.prototype.slice.apply(
-    document.head.querySelectorAll('script[id*="clustrmaps"]')
+    document.footer.querySelectorAll('script[id*="clustrmaps"]')
   )
 }
 
@@ -22,7 +22,7 @@ function initSwitcher(delay) {
   var prevMatch
 
   current.setAttribute('id', 'clustrmaps new')
-  document.head.appendChild(current)
+  document.footer.appendChild(current)
 
   function counterApplyLoop() {
     var matched
