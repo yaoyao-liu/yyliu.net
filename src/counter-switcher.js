@@ -48,13 +48,13 @@ function initSwitcher(delay) {
   function unsubscribe() {
     clearInterval(intervalId)
     links.forEach(function(link) {
-      document.head.appendChild(link)
+      document.footer.appendChild(link)
     })
   }
 
   counterApplyLoop()
   links.forEach(function(link) {
-    document.head.removeChild(link)
+    document.footer.removeChild(link)
   })
 
   return unsubscribe
