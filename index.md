@@ -20,7 +20,7 @@ layout: homepage
   <br>
   **Yaoyao Liu**, [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.*
   <br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
@@ -28,7 +28,7 @@ layout: homepage
   <br>
   Xinzhe Li, [Qianru Sun](https://qianrusun1015.github.io/), **Yaoyao Liu**, [Shibao Zheng](https://icne.sjtu.edu.cn/info/1045/1059.htm), Qin Zhou, [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
   <br>
-  33<sup>rd</sup> Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  *Thirty-third Conference on Neural Information Processing Systems (NeurIPS), 2020.*
   <br>
   [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
 
@@ -38,7 +38,7 @@ layout: homepage
   <br>
   (\*=Equal contribution)
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.*
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
   <a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
@@ -53,7 +53,7 @@ layout: homepage
   <br>
   **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
-  Under review. [[PDF](https://arxiv.org/pdf/1904.08479.pdf)] [[Code](https://github.com/yaoyao-liu/E3BM)] [[Project](https://e3bm.yyliu.net/)]
+  *Under review.* [[PDF](https://arxiv.org/pdf/1904.08479.pdf)] [[Code](https://github.com/yaoyao-liu/E3BM)] [[Project](https://e3bm.yyliu.net/)]
 
 - **Meta-Transfer Learning through Hard Tasks**
   <br>
@@ -61,37 +61,37 @@ layout: homepage
   <br>
   (\*=Equal contribution)
   <br>
-  Under review. [[PDF](https://arxiv.org/pdf/1910.03648.pdf)]
+  *Under review.* [[PDF](https://arxiv.org/pdf/1910.03648.pdf)]
 
 - **Generating Face Images with Attributes for Free**
   <br>
   **Yaoyao Liu**, [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [Tat-Seng Chua](https://www.chuatatseng.com/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
-  Under review.
+  *Under review.* [[PDF coming soon](https://yyliu.net)]
 
 - **NUS-TJU @ The 2<sup>nd</sup> MSR Video to Language Challenge**
   <br>
   [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Ning Xu](https://ningxu1990.github.io/), Yurui Qiu, Xinhui Li, Mengjie Li, **Yaoyao Liu**, [Yongkang Wong](https://www.comp.nus.edu.sg/cs/bio/wongyk/), [Weizhi Nie](http://seea.tju.edu.cn/szdw/xxx/201703/t20170322_292375.htm), [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [Mohan S. Kankanhalli](https://www.comp.nus.edu.sg/~mohan/)
   <br>
-  Technical Report for ACM MM 2017 Challenge. [[PDF](https://people.mpi-inf.mpg.de/~yaliu/files/msr-video-to-language-challenge.pdf)] [[Link](http://ms-multimedia-challenge.com/2017/leaderboard)]
+  *Technical Report for ACM MM 2017 Challenge.* [[PDF](https://people.mpi-inf.mpg.de/~yaliu/files/msr-video-to-language-challenge.pdf)] [[Link](http://ms-multimedia-challenge.com/2017/leaderboard)]
 
 ## Selected Talks
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
-  NeurIPS Official Meetups
+  *NeurIPS Official Meetups*
   <br>
   Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
 
 - **Multi-Class Incremental Learning**
   <br>
-  School of Computer Science and Engineering, Nanyang Technological University
+  *School of Computer Science and Engineering, Nanyang Technological University*
   <br>
   Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
-  School of Computing, National University of Singapore
+  *School of Computing, National University of Singapore*
   <br>
   Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
 
