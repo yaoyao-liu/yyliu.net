@@ -97,6 +97,11 @@ layout: homepage
 
 ## Services
 
-- **Co-organizer:** [ACM MM Asia 2020](https://mmasia2020.org/).
-- **Conference Reviewers:** [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [IJCAI 2018](https://www.ijcai-18.org/).
-- **Journal Reviewers:** [IPM](https://www.journals.elsevier.com/information-processing-and-management), [NEPL](https://www.springer.com/journal/11063), [MTAP](https://link.springer.com/journal/11042), and [IEEE Access](https://ieeeaccess.ieee.org/).
+- Co-organizer of [ACM MM Asia 2020](https://mmasia2020.org/).
+- Program Committee Member of [NeurIPS 2020](https://neurips.cc/Conferences/2020).
+- Invited Reviewer for [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing).
+- Invited Reviewer for [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management).
+- Invited Reviewer for [Neural Processing Letters](https://www.springer.com/journal/11063).
+- Invited Reviewer for [Multimedia Tools and Applications](https://link.springer.com/journal/11042).
+- Invited Reviewer for [IEEE Access](https://ieeeaccess.ieee.org/).
+- External Reviewer of [IJCAI 2018](https://ijcai-18.org/).
