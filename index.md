@@ -9,12 +9,38 @@ layout: homepage
 
 ## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[July 2020]** Our paper about few-shot learning is accepted to [ECCV 2020](https://eccv2020.eu/).
+- **[June 2020]** Our paper about image generation is accepted to [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
+- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
+- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
+- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 
 ## Publications
+
+<!--
+- **Meta-Transfer Learning through Hard Tasks**
+  <br>
+  [Qianru Sun](https://qianrusun1015.github.io/)\*, **Yaoyao Liu\***, [Zhaozheng Chen](https://zhaozhengchen.github.io/), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
+  <br>
+  (\*=Equal contribution)
+  <br>
+  *Under review.* [[PDF](https://arxiv.org/pdf/1910.03648.pdf)]
+-->
+
+- **An Ensemble of Epoch-Wise Empirical Bayes for Few-Shot Learning**
+  <br>
+  **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  <br>
+  *European Conference on Computer Vision **(ECCV)**, 2020.*
+  <br> 
+  [[PDF](https://arxiv.org/pdf/1904.08479.pdf)] [[Code](https://github.com/yaoyao-liu/E3BM)] [[Project](https://e3bm.yyliu.net/)]
+
+- **Generating Face Images with Attributes for Free**
+  <br>
+  **Yaoyao Liu**, [Qianru Sun](https://qianrusun1015.github.io/), [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [Tat-Seng Chua](https://www.chuatatseng.com/)
+  <br>
+  *IEEE Transactions on Neural Networks and learning systems **(TNNLS)**, 2020.*
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -49,26 +75,6 @@ layout: homepage
   });
   </script>
 
-- **An Ensemble of Epoch-Wise Empirical Bayes for Few-Shot Learning**
-  <br>
-  **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
-  <br>
-  *Under review.* [[PDF](https://arxiv.org/pdf/1904.08479.pdf)] [[Code](https://github.com/yaoyao-liu/E3BM)] [[Project](https://e3bm.yyliu.net/)]
-
-- **Meta-Transfer Learning through Hard Tasks**
-  <br>
-  [Qianru Sun](https://qianrusun1015.github.io/)\*, **Yaoyao Liu\***, [Zhaozheng Chen](https://zhaozhengchen.github.io/), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
-  <br>
-  (\*=Equal contribution)
-  <br>
-  *Under review.* [[PDF](https://arxiv.org/pdf/1910.03648.pdf)]
-
-- **Generating Face Images with Attributes for Free**
-  <br>
-  **Yaoyao Liu**, [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [Tat-Seng Chua](https://www.chuatatseng.com/), [Qianru Sun](https://qianrusun1015.github.io/)
-  <br>
-  *Under review.* [[PDF coming soon](https://yyliu.net)]
-
 - **NUS-TJU @ The 2<sup>nd</sup> MSR Video to Language Challenge**
   <br>
   [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Ning Xu](https://ningxu1990.github.io/), Yurui Qiu, Xinhui Li, Mengjie Li, **Yaoyao Liu**, [Yongkang Wong](https://www.comp.nus.edu.sg/cs/bio/wongyk/), [Weizhi Nie](http://seea.tju.edu.cn/szdw/xxx/201703/t20170322_292375.htm), [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [Mohan S. Kankanhalli](https://www.comp.nus.edu.sg/~mohan/)
@@ -76,6 +82,12 @@ layout: homepage
   *Technical Report for ACM MM 2017 Challenge.* [[PDF](https://people.mpi-inf.mpg.de/~yaliu/files/msr-video-to-language-challenge.pdf)] [[Link](http://ms-multimedia-challenge.com/2017/leaderboard)]
 
 ## Selected Talks
+
+- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+  <br>
+  CVPR Oral Presentation
+  <br>
+  Online, June 2020 [[Slides](https://mnemonics.yyliu.net/files/5210-talk.pdf)]
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
