@@ -10,6 +10,7 @@ layout: homepage
 ## News
 
 - **[July 2020]** Our paper about few-shot learning is accepted to [ECCV 2020](https://eccv2020.eu/).
+- **[June 2020]** Our paper about image generation is accepted to [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
 - **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
@@ -43,6 +44,11 @@ layout: homepage
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
+- **Generating Face Images with Attributes for Free**
+  <br>
+  **Yaoyao Liu**, [Qianru Sun](https://qianrusun1015.github.io/), [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [Tat-Seng Chua](https://www.chuatatseng.com/)
+  <br>
+  *IEEE Transactions on Neural Networks and learning systems **(TNNLS)**, 2020.*
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
@@ -60,7 +66,7 @@ layout: homepage
   <br>
   *IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2019.*
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
   <a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
