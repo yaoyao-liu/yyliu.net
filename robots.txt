@@ -20,10 +20,10 @@ Disallow: /404.html
 Disallow: /LICENSE
 Disallow: /.gitignore
 Disallow: /git-update.sh
+Disallow: minimal-light.gemspec
 Disallow: /run-jekyll.sh
 Disallow: /README.md
 Disallow: /mpii_files
 Disallow: /backup
 
 Sitemap: https://mpi-inf.mpg.de/~yaliu/sitemap.xml
-

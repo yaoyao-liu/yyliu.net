@@ -7,7 +7,7 @@ layout: homepage
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
+## Recent News
 
 - **[July 2020]** Our paper about few-shot learning is accepted to [ECCV 2020](https://eccv2020.eu/).
 - **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
@@ -33,7 +33,7 @@ layout: homepage
   <br>
   *European Conference on Computer Vision **(ECCV)**, 2020.*
   <br> 
-  [[PDF](https://arxiv.org/pdf/1904.08479.pdf)] [[Code](https://github.com/yaoyao-liu/E3BM)] [[Project](https://e3bm.yyliu.net/)]
+  [[PDF](https://arxiv.org/pdf/1904.08479.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Project](https://e3bm.yyliu.net/)]
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -41,7 +41,7 @@ layout: homepage
   <br>
   *IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2020.*
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
@@ -69,19 +69,13 @@ layout: homepage
   });
   </script>
 
-- **NUS-TJU @ The 2<sup>nd</sup> MSR Video to Language Challenge**
-  <br>
-  [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Ning Xu](https://ningxu1990.github.io/), Yurui Qiu, Xinhui Li, Mengjie Li, **Yaoyao Liu**, [Yongkang Wong](https://www.comp.nus.edu.sg/cs/bio/wongyk/), [Weizhi Nie](http://seea.tju.edu.cn/szdw/xxx/201703/t20170322_292375.htm), [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [Mohan S. Kankanhalli](https://www.comp.nus.edu.sg/~mohan/)
-  <br>
-  *Technical Report for ACM MM 2017 Challenge.* [[PDF](https://people.mpi-inf.mpg.de/~yaliu/files/msr-video-to-language-challenge.pdf)] [[Link](http://ms-multimedia-challenge.com/2017/leaderboard)]
-
 ## Selected Talks
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
   CVPR Oral Presentation
   <br>
-  Online, June 2020 [[Slides](https://mnemonics.yyliu.net/files/5210-talk.pdf)]
+  Seattle, WA, United States, June 2020
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
@@ -101,7 +95,7 @@ layout: homepage
   <br>
   Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
 
-## Services
+## Professional Services
 
 - Co-organizer of [ACM MM Asia 2020](https://mmasia2020.org/).
 - Program Committee Member of [NeurIPS 2020](https://neurips.cc/Conferences/2020).
@@ -110,4 +104,4 @@ layout: homepage
 - Invited Reviewer for [Neural Processing Letters](https://www.springer.com/journal/11063).
 - Invited Reviewer for [Multimedia Tools and Applications](https://link.springer.com/journal/11042).
 - Invited Reviewer for [IEEE Access](https://ieeeaccess.ieee.org/).
-- External Reviewer of [IJCAI 2018](https://ijcai-18.org/).
+- External Reviewer of [IJCAI-ECAI 2018](https://ijcai-18.org/).
