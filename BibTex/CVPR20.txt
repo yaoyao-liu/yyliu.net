@@ -1,0 +1,12 @@
+@inproceedings{Liu2020Mnemonics,
+  author    = {Yaoyao Liu and
+               An{-}An Liu and
+               Yuting Su and
+               Bernt Schiele and
+               Qianru Sun},
+  title     = {Mnemonics Training: Multi-Class Incremental Learning without Forgetting},
+  booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR}
+               2020, Seattle, WA, USA, June 14-16, 2020},
+  pages     = {12245--12254},
+  year      = {2020}
+}

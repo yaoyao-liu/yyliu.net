@@ -33,15 +33,15 @@ layout: homepage
   <br>
   *European Conference on Computer Vision **(ECCV)**, 2020.*
   <br> 
-  [[PDF](https://arxiv.org/pdf/1904.08479.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Project](https://e3bm.yyliu.net/)]
+  [[PDF](https://arxiv.org/pdf/1904.08479.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Project](https://e3bm.yyliu.net/)] [[BibTex](https://yyliu.net/BibTex/ECCV20.txt)]
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
   **Yaoyao Liu**, [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
-  *IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2020.*
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2020.*
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[BibTex](https://yyliu.net/BibTex/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
@@ -50,7 +50,7 @@ layout: homepage
   <br>
   *Annual Conference on Neural Information Processing Systems **(NeurIPS)**, 2019.*
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
+  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)] [[BibTex](https://yyliu.net/BibTex/NeurIPS19.txt)]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
@@ -58,9 +58,9 @@ layout: homepage
   <br>
   (\*=Equal contribution)
   <br>
-  *IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2019.*
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2019.*
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[BibTex](https://yyliu.net/BibTex/CVPR19.txt)]
   <a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
