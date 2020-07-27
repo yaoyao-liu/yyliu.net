@@ -4,8 +4,8 @@ layout: homepage
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image recognition, image generation
+- **Machine Learning:** meta-learning, incremental learning
 
 ## Recent News
 
@@ -27,7 +27,7 @@ layout: homepage
   *Under review.* [[PDF](https://arxiv.org/pdf/1910.03648.pdf)]
 -->
 
-- **An Ensemble of Epoch-Wise Empirical Bayes for Few-Shot Learning**
+- **An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning**
   <br>
   **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
