@@ -29,7 +29,7 @@ layout: homepage
 
 - **An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning**
   <br>
-  **Yaoyao Liu**, <autocolor>[Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)</autocolor>, <autocolor>[Qianru Sun](https://qianrusun1015.github.io/)</autocolor>
+  **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
   *European Conference on Computer Vision **(ECCV)**, 2020.*
   <br> 
