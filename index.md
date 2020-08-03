@@ -17,16 +17,6 @@ layout: homepage
 
 ## Publications
 
-<!--
-- **Meta-Transfer Learning through Hard Tasks**
-  <br>
-  [Qianru Sun](https://qianrusun1015.github.io/)\*, **Yaoyao Liu\***, [Zhaozheng Chen](https://zhaozhengchen.github.io/), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
-  <br>
-  (\*=Equal contribution)
-  <br>
-  *Under review.* [[PDF](https://arxiv.org/pdf/1910.03648.pdf)]
--->
-
 - **An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning**
   <br>
   **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
@@ -100,6 +90,7 @@ layout: homepage
 - Co-organizer of [ACM MM Asia 2020](https://mmasia2020.org/).
 - Program Committee Member of [NeurIPS 2020](https://neurips.cc/Conferences/2020).
 - Invited Reviewer for [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing).
+- Invited Reviewer for [Neural Networks](https://www.journals.elsevier.com/neural-networks).
 - Invited Reviewer for [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management).
 - Invited Reviewer for [Neural Processing Letters](https://www.springer.com/journal/11063).
 - Invited Reviewer for [Multimedia Tools and Applications](https://link.springer.com/journal/11042).
