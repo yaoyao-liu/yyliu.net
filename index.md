@@ -34,7 +34,7 @@ layout: homepage
   <br>
   *European Conference on Computer Vision **(ECCV)**, 2020.*
   <br> 
-  [[PDF](https://arxiv.org/pdf/1904.08479.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Project](https://e3bm.yyliu.net/)] [[BibTex](./BibTex/ECCV20.txt)]
+  [[PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Project](https://e3bm.yyliu.net/)] [[BibTex](./BibTex/ECCV20.txt)]
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -76,25 +76,25 @@ layout: homepage
   <br>
   CVPR Oral Presentation
   <br>
-  Seattle, WA, United States, June 2020
+  Seattle, WA, United States, June 2020 [[Video](https://youtu.be/nATUgAiaaCs)]
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
   NeurIPS Official Meetups
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  Beijing, China, December 2019 [[Slides](./files/learning-to-self-train-slides.pdf)]
 
 - **Multi-Class Incremental Learning**
   <br>
   School of Computer Science and Engineering, Nanyang Technological University
   <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
+  Singapore, July 2019 [[Slides](./files/multi-class-incremental-learning.pdf)]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
   School of Computing, National University of Singapore
   <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
+  Singapore, April 2019 [[Slides](./files/meta-transfer-learning-slides.pdf)]
 
 ## Professional Services
 
