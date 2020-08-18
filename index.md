@@ -9,7 +9,7 @@ layout: homepage
 
 ## Recent News
 
-- **[Aug 2020]** Our paper about few-shot learning is accepted to [TPAMI](https://www.computer.org/csdl/journal/tp).
+- **[Aug 2020]** Our paper about few-shot learning is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
 - **[July 2020]** Our paper about few-shot learning is accepted to [ECCV 2020](https://eccv2020.eu/).
 - **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
 - **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
