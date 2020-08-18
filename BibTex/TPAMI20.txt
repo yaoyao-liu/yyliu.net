@@ -1,0 +1,10 @@
+@article{Sun2020MTL,
+  author    = {Qianru Sun and
+               Yaoyao Liu and
+               Zhaozheng Chen and
+               Tat{-}Seng Chua and
+               Bernt Schiele},
+  title     = {Meta-Transfer Learning through Hard Tasks},
+  journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year      = {2020}
+}
