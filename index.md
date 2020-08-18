@@ -26,7 +26,7 @@ layout: homepage
   <br>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2020.*
   <br> 
-  [[PDF](./files/Meta_Transfer_Learning_through_Hard_Tasks.pdf)] [[BibTex](./BibTex/TPAMI20.txt)]
+  [[Preprint](./files/Meta_Transfer_Learning_through_Hard_Tasks.pdf)] [[BibTex](./BibTex/TPAMI20.txt)]
 
 - **An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning**
   <br>
