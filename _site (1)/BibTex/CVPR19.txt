@@ -1,0 +1,11 @@
+@inproceedings{Sun2019MTL,
+  author    = {Qianru Sun and
+               Yaoyao Liu and
+               Tat{-}Seng Chua and
+               Bernt Schiele},
+  title     = {Meta-Transfer Learning for Few-Shot Learning},
+  booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR}
+               2019, Long Beach, CA, USA, June 16-20, 2019},
+  pages     = {403--412},
+  year      = {2019}
+}

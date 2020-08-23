@@ -26,7 +26,7 @@ layout: homepage
   <br>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2020.*
   <br> 
-  [[Preprint](./files/Meta_Transfer_Learning_through_Hard_Tasks.pdf)] [[BibTex](./BibTex/TPAMI20.txt)]
+  [[PDF](https://ieeexplore.ieee.org/document/9173698)] [[BibTex](./BibTex/TPAMI20.txt)]
 
 - **An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning**
   <br>
@@ -42,7 +42,7 @@ layout: homepage
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2020.*
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[BibTex](./BibTex/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[BibTex](./BibTex/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
