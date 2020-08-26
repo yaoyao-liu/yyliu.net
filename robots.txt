@@ -1,11 +1,4 @@
 User-agent: *
-Allow: /
-Allow: /files/
-Allow: /favicon/
-Allow: /index.html
-Allow: /meta-transfer-learning/index.html
-Allow: /meta-transfer-learning/download/index.html
-Allow: /meta-transfer-learning/datasets/index.html
 Disallow: /images/
 Disallow: /backup/
 Disallow: /src/
