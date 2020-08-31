@@ -99,6 +99,7 @@ layout: homepage
 ## Professional Services
 
 - Co-organizer of [ACM MM Asia 2020](https://mmasia2020.org/).
+- Program Committee Member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 - Program Committee Member of [NeurIPS 2020](https://neurips.cc/Conferences/2020).
 - Invited Reviewer for [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing).
 - Invited Reviewer for [Neural Networks](https://www.journals.elsevier.com/neural-networks).
