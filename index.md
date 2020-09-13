@@ -72,9 +72,15 @@ layout: homepage
 
 ## Selected Talks
 
+- **Annotation-Efficient Learning: Class-Incremental Learning and Few-Shot Learning**
+  <br>
+  School of Information Systems, Singapore Management University (Online) 
+  <br>
+  Singapore, September 2020 [[Slides](./files/annotation-efficient-learning.pdf)]
+
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
-  CVPR Oral Presentation
+  CVPR Oral Presentation (Online) 
   <br>
   Seattle, WA, United States, June 2020 [[Video](https://youtu.be/nATUgAiaaCs)]
 
