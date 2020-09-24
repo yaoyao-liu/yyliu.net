@@ -105,12 +105,12 @@ layout: homepage
 ## Professional Services
 
 - Co-organizer of [ACM MM Asia 2020](https://mmasia2020.org/).
-- Program Committee Member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-- Program Committee Member of [NeurIPS 2020](https://neurips.cc/Conferences/2020).
-- Invited Reviewer for [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing).
-- Invited Reviewer for [Neural Networks](https://www.journals.elsevier.com/neural-networks).
-- Invited Reviewer for [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management).
-- Invited Reviewer for [Neural Processing Letters](https://www.springer.com/journal/11063).
-- Invited Reviewer for [Multimedia Tools and Applications](https://link.springer.com/journal/11042).
-- Invited Reviewer for [IEEE Access](https://ieeeaccess.ieee.org/).
+- Program Committee Member (Reviewer) of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
+- Program Committee Member (Reviewer) of [NeurIPS 2020](https://neurips.cc/Conferences/2020).
+- Reviewer of [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing).
+- Reviewer of [Neural Networks](https://www.journals.elsevier.com/neural-networks).
+- Reviewer of [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management).
+- Reviewer of [Neural Processing Letters](https://www.springer.com/journal/11063).
+- Reviewer of [Multimedia Tools and Applications](https://link.springer.com/journal/11042).
+- Reviewer of [IEEE Access](https://ieeeaccess.ieee.org/).
 - External Reviewer of [IJCAI-ECAI 2018](https://ijcai-18.org/).
