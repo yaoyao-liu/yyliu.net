@@ -107,24 +107,24 @@ layout: homepage
 <h4 style="margin:0 10px 0;">Co-organizer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://mmasia2020.org/">ACM MM Asia 2020</a></li>
+  <li><a href="https://mmasia2020.org/"><autocolor>ACM MM Asia 2020</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a></li>
-  <li><a href="https://neurips.cc/Conferences/2020">NeurIPS 2020</a></li>
-  <li><a href="https://ijcai-18.org/">IJCAI-ECAI 2018</a></li>
+  <li><a href="https://aaai.org/Conferences/AAAI-21/"><autocolor>AAAI 2021</autocolor></a></li>
+  <li><a href="https://neurips.cc/Conferences/2020"><autocolor>NeurIPS 2020</autocolor></a></li>
+  <li><a href="https://ijcai-18.org/"><autocolor>IJCAI-ECAI 2018</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing">IEEE Transactions on Image Processing</a></li>
-  <li><a href="https://www.journals.elsevier.com/neural-networks">Neural Networks</a></li>
-  <li><a href="https://www.journals.elsevier.com/information-processing-and-management">Information Processing and Management</a></li>
-  <li><a href="https://www.springer.com/journal/11063">Neural Processing Letters</a></li>
-  <li><a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications</a></li>
-  <li><a href="https://ieeeaccess.ieee.org/">IEEE Access</a></li>
+  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing</autocolor></a></li>
+  <li><a href="https://www.journals.elsevier.com/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
+  <li><a href="https://www.journals.elsevier.com/information-processing-and-management"><autocolor>Information Processing and Management</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11063"><autocolor>Neural Processing Letters</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/11042"><autocolor>Multimedia Tools and Applications</autocolor></a></li>
+  <li><a href="https://ieeeaccess.ieee.org/"><autocolor>IEEE Access</autocolor></a></li>
 </ul>
