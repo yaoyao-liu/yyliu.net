@@ -104,13 +104,27 @@ layout: homepage
 
 ## Professional Services
 
-- Co-organizer of [ACM MM Asia 2020](https://mmasia2020.org/).
-- Program Committee Member (Reviewer) of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-- Program Committee Member (Reviewer) of [NeurIPS 2020](https://neurips.cc/Conferences/2020).
-- Reviewer of [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing).
-- Reviewer of [Neural Networks](https://www.journals.elsevier.com/neural-networks).
-- Reviewer of [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management).
-- Reviewer of [Neural Processing Letters](https://www.springer.com/journal/11063).
-- Reviewer of [Multimedia Tools and Applications](https://link.springer.com/journal/11042).
-- Reviewer of [IEEE Access](https://ieeeaccess.ieee.org/).
-- External Reviewer of [IJCAI-ECAI 2018](https://ijcai-18.org/).
+<h4 style="margin:0 10px 0;">Co-organizer</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://mmasia2020.org/">ACM MM Asia 2020</a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a></li>
+  <li><a href="https://neurips.cc/Conferences/2020">NeurIPS 2020</a></li>
+  <li><a href="https://ijcai-18.org/">IJCAI-ECAI 2018</a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing">IEEE Transactions on Image Processing</a></li>
+  <li><a href="https://www.journals.elsevier.com/neural-networks">Neural Networks</a></li>
+  <li><a href="https://www.journals.elsevier.com/information-processing-and-management">Information Processing and Management</a></li>
+  <li><a href="https://www.springer.com/journal/11063">Neural Processing Letters</a></li>
+  <li><a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications</a></li>
+  <li><a href="https://ieeeaccess.ieee.org/">IEEE Access</a></li>
+</ul>
