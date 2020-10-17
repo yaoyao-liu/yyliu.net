@@ -113,9 +113,9 @@ layout: homepage
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://ijcai-21.org/"><autocolor>IJCAI 2021</autocolor></a></li>
   <li><a href="https://aaai.org/Conferences/AAAI-21/"><autocolor>AAAI 2021</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2020"><autocolor>NeurIPS 2020</autocolor></a></li>
-  <li><a href="https://ijcai-18.org/"><autocolor>IJCAI-ECAI 2018</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
