@@ -7,7 +7,7 @@ layout: homepage
 - **Computer Vision:** image recognition, image generation
 - **Machine Learning:** meta-learning, incremental learning
 
-## Recent News
+## News
 
 - **[Aug. 2020]** Our paper about few-shot learning is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
 - **[July 2020]** Our paper about few-shot learning is accepted to [ECCV 2020](https://eccv2020.eu/).
@@ -70,6 +70,7 @@ layout: homepage
   });
   </script>
 
+<!--
 ## Selected Talks
 
 - **Annotation-Efficient Learning: Class-Incremental Learning and Few-Shot Learning**
@@ -101,16 +102,17 @@ layout: homepage
   School of Computing, National University of Singapore
   <br>
   Singapore, April 2019 [[Slides](./files/meta-transfer-learning-slides.pdf)]
+-->
 
 ## Professional Services
 
-<h4 style="margin:0 10px 0;">Co-organizer</h4>
+<h4 style="margin:0 10px 0;">Conference Co-organizer</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://mmasia2020.org/"><autocolor>ACM MM Asia 2020</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference PC Members (Reviewers)</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://ijcai-21.org/"><autocolor>IJCAI 2021</autocolor></a></li>
