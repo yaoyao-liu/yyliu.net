@@ -1,8 +1,10 @@
 @inproceedings{Liu2020E3BM,
-  author    = {Liu, Yaoyao and
-               Schiele, Bernt and
-               Sun, Qianru},
-  title     = {An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning},
-  booktitle = {European Conference on Computer Vision (ECCV)},
-  year      = {2020}
+  author       = {Liu, Yaoyao and
+                  Schiele, Bernt and
+                  Sun, Qianru},
+  title        = {An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning},
+  booktitle    = {European Conference on Computer Vision (ECCV)},
+  pages        = {404--421},
+  year         = {2020},
+  organization = {Springer}
 }
