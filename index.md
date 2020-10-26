@@ -124,6 +124,7 @@ layout: homepage
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing</autocolor></a></li>
+  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor>IEEE Transactions on Multimedia</autocolor></a></li>
   <li><a href="https://www.journals.elsevier.com/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
   <li><a href="https://www.journals.elsevier.com/information-processing-and-management"><autocolor>Information Processing and Management</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11063"><autocolor>Neural Processing Letters</autocolor></a></li>

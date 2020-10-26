@@ -6,5 +6,6 @@
                Bernt Schiele},
   title     = {Meta-Transfer Learning through Hard Tasks},
   journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  doi       = {10.1109/TPAMI.2020.3018506},
   year      = {2020}
 }
