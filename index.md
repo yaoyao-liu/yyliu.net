@@ -115,6 +115,7 @@ layout: homepage
 <h4 style="margin:0 10px 0;">Conference PC Members (Reviewers)</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="http://cvpr2021.thecvf.com/"><autocolor>CVPR 2021</autocolor></a></li>
   <li><a href="https://ijcai-21.org/"><autocolor>IJCAI 2021</autocolor></a></li>
   <li><a href="https://aaai.org/Conferences/AAAI-21/"><autocolor>AAAI 2021</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2020"><autocolor>NeurIPS 2020</autocolor></a></li>
