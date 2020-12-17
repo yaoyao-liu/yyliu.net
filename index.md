@@ -112,12 +112,17 @@ layout: homepage
   <li><a href="https://mmasia2020.org/"><autocolor>ACM MM Asia 2020</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference PC Members (Reviewers)</h4>
+<h4 style="margin:0 10px 0;">Conference Senior PC Member</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>IJCAI <a href="https://ijcai-21.org/"><autocolor>2021</autocolor></a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li>ICML <a href="https://icml.cc/Conferences/2021"><autocolor>2021</autocolor></a></li>
   <li>CVPR <a href="http://cvpr2021.thecvf.com/"><autocolor>2021</autocolor></a></li>
-  <li>IJCAI <a href="https://ijcai-21.org/"><autocolor>2021</autocolor></a></li>
   <li>AAAI <a href="https://aaai.org/Conferences/AAAI-21/"><autocolor>2021</autocolor></a></li>
   <li>NeurIPS <a href="https://neurips.cc/Conferences/2020"><autocolor>2020</autocolor></a></li>
 </ul>
