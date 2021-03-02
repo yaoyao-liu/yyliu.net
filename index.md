@@ -5,18 +5,36 @@ layout: homepage
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation
-- **Machine Learning:** meta-learning, incremental learning
+- **Machine Learning:** meta-learning, continual learning
 
 ## News
 
+- **[Mar. 2021]** Our paper about class-incremental learning is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
 - **[Aug. 2020]** Our paper about few-shot learning is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
 - **[July 2020]** Our paper about few-shot learning is accepted to [ECCV 2020](https://eccv2020.eu/).
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
+- **[Feb. 2020]** Our paper about class-incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
 - **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 
 ## Publications
+
+<!--
+- **Meta-Aggregation Networks for Class-Incremental Learning**
+  <br>
+  **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  <br>
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2021.*
+  <br> 
+  [[PDF](https://arxiv.org/pdf/2010.05063.pdf)] [[Code](https://github.com/yaoyao-liu/class-incremental-learning)] [[Project](https://class-il.mpi-inf.mpg.de/)] [[BibTex](./BibTex/CVPR21.txt)]
+  <a href="https://github.com/yaoyao-liu/class-incremental-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
+  <script>
+  githubStars("yaoyao-liu/class-incremental-learning", function(stars) {
+  var startext = document.getElementById("githubstars_manets");
+        startext.innerHTML=stars;
+  });
+  </script>
+-->
 
 - **Meta-Transfer Learning through Hard Tasks**
   <br>
@@ -26,7 +44,7 @@ layout: homepage
   <br>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2020.*
   <br> 
-  [[PDF](https://ieeexplore.ieee.org/document/9173698)] [[BibTex](./BibTex/TPAMI20.txt)]
+  [[PDF](https://ieeexplore.ieee.org/document/9173698)]  [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[BibTex](./BibTex/TPAMI20.txt)]
 
 - **An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning**
   <br>
@@ -42,7 +60,7 @@ layout: homepage
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2020.*
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[BibTex](./BibTex/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://class-il.mpi-inf.mpg.de/mnemonics/)] [[BibTex](./BibTex/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
@@ -61,7 +79,7 @@ layout: homepage
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2019.*
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[BibTex](./BibTex/CVPR19.txt)]
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Media Coverage at NUS](https://www.comp.nus.edu.sg/news/features/2019-cvpr-research/)] [[BibTex](./BibTex/CVPR19.txt)]
   <a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
