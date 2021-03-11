@@ -19,14 +19,13 @@ layout: homepage
 
 ## Publications
 
-<!--
-- **Meta-Aggregation Networks for Class-Incremental Learning**
+- **Adaptive Aggregation Networks for Class-Incremental Learning**
   <br>
   **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2021.*
   <br> 
-  [[PDF](https://arxiv.org/pdf/2010.05063.pdf)] [[Code](https://github.com/yaoyao-liu/class-incremental-learning)] [[Project](https://class-il.mpi-inf.mpg.de/)] [[BibTex](./BibTex/CVPR21.txt)]
+  [[PDF](https://arxiv.org/pdf/2010.05063.pdf)] [[Code](https://github.com/yaoyao-liu/class-incremental-learning)] [[Project](https://class-il.mpi-inf.mpg.de/)] [[BibTex](https://yyliu.net/BibTex/CVPR21.txt)]
   <a href="https://github.com/yaoyao-liu/class-incremental-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
   <script>
   githubStars("yaoyao-liu/class-incremental-learning", function(stars) {
@@ -34,7 +33,6 @@ layout: homepage
         startext.innerHTML=stars;
   });
   </script>
--->
 
 - **Meta-Transfer Learning through Hard Tasks**
   <br>
