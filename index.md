@@ -164,4 +164,5 @@ layout: homepage
   <li><a href="https://www.springer.com/journal/11063"><autocolor>Neural Processing Letters</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11042"><autocolor>Multimedia Tools and Applications</autocolor></a></li>
   <li><a href="https://ieeeaccess.ieee.org/"><autocolor>IEEE Access</autocolor></a></li>
+  <li><a href="http://cjc.ict.ac.cn/"><autocolor>Chinese Journal of Computers</autocolor></a></li>
 </ul>
