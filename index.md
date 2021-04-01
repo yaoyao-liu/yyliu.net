@@ -65,7 +65,7 @@ layout: homepage
   <br>
   [Xinzhe Li](https://openreview.net/profile?id=~Xinzhe_Li1), [Qianru Sun](https://qianrusun1015.github.io/), **Yaoyao Liu**, [Shibao Zheng](https://icne.sjtu.edu.cn/info/1045/1059.htm), [Qin Zhou](https://scholar.google.com/citations?user=LtWsD3QAAAAJ&hl=en), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
   <br>
-  *Annual Conference on Neural Information Processing Systems **(NeurIPS)**, 2019.*
+  *Thirty-third Conference on Neural Information Processing Systems **(NeurIPS)**, 2019.*
   <br>
   [[PDF](https://my-publications.yyliu.net/Learning-to-Self-Train-for-Semi-Supervised-Few-Shot-Classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Project](https://lst.yyliu.net/)] [[BibTex](./BibTex/NeurIPS19.txt)]
 
