@@ -67,7 +67,7 @@ layout: homepage
   <br>
   *Annual Conference on Neural Information Processing Systems **(NeurIPS)**, 2019.*
   <br>
-  [[PDF](https://my-publications.yyliu.net/Learning-to-Self-Train-for-Semi-Supervised-Few-Shot-Classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)] [[BibTex](./BibTex/NeurIPS19.txt)]
+  [[PDF](https://my-publications.yyliu.net/Learning-to-Self-Train-for-Semi-Supervised-Few-Shot-Classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Project](https://lst.yyliu.net/)] [[BibTex](./BibTex/NeurIPS19.txt)]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
