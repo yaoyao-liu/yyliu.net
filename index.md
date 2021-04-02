@@ -150,6 +150,7 @@ layout: homepage
   <li>ICML <a href="https://icml.cc/Conferences/2021"><autocolor>2021</autocolor></a></li>
   <li>CVPR <a href="http://cvpr2021.thecvf.com/"><autocolor>2021</autocolor></a></li>
   <li>AAAI <a href="https://aaai.org/Conferences/AAAI-21/"><autocolor>2021</autocolor></a></li>
+  <li>ACM MM <a href="https://2021.acmmm.org/"><autocolor>2021</autocolor></a></li>  
   <li>NeurIPS <a href="https://neurips.cc/Conferences/2020"><autocolor>2020</autocolor></a></li>
 </ul>
 
