@@ -2,10 +2,11 @@
 layout: homepage
 ---
 
-## Research Interests
+## About Me
 
-- **Computer Vision:** image recognition, image generation
-- **Machine Learning:** meta-learning, continual learning
+I am a Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), working with [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the National University of Singapore, working with Prof. Tat-Seng Chua and Prof. Qianru Sun. I obtained my bachelor’s degree from Tianjin University. 
+
+My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **few-shot learning**, **class-incremental learning**, **semi-supervised learning**, and **image generation**.
 
 ## News
 
@@ -25,7 +26,7 @@ layout: homepage
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2021.*
   <br> 
-  [[PDF](https://my-publications.yyliu.net/Adaptive-Aggregation-Networks-for-Class-Incremental-Learning.pdf)] [[Code](https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks)] [[Project](https://class-il.mpi-inf.mpg.de/)] [[BibTex](https://yyliu.net/BibTex/CVPR21.txt)]
+  [[PDF](https://arxiv.org/pdf/2010.05063.pdf)] [[Code](https://git.io/JYHyt)] [[Project](https://class-il.mpi-inf.mpg.de/)] [[BibTex](https://bib.yyliu.net/CVPR21.txt)]
   <a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
   <script>
   githubStars("yaoyao-liu/class-incremental-learning", function(stars) {
@@ -42,7 +43,7 @@ layout: homepage
   <br>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2020.*
   <br> 
-  [[PDF](https://my-publications.yyliu.net/Meta-Transfer-Learning-through-Hard-Tasks.pdf)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/9173698)]  [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[BibTex](./BibTex/TPAMI20.txt)]
+  [[PDF](https://my-publications.yyliu.net/Meta-Transfer-Learning-through-Hard-Tasks.pdf)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/9173698)]  [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[BibTex](https://bib.yyliu.net/TPAMI20.txt)]
 
 - **An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning**
   <br>
@@ -50,15 +51,15 @@ layout: homepage
   <br>
   *European Conference on Computer Vision **(ECCV)**, 2020.*
   <br> 
-  [[PDF](https://my-publications.yyliu.net/An-Ensemble-of-Epoch-wise-Empirical-Bayes-for-Few-shot-Learning.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Project](https://e3bm.yyliu.net/)] [[BibTex](./BibTex/ECCV20.txt)]
+  [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Project](https://e3bm.yyliu.net/)] [[BibTex](https://bib.yyliu.net/ECCV20.txt)]
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
-  **Yaoyao Liu**, [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  **Yaoyao Liu**, [Yuting Su](http://seea.tju.edu.cn/info/1014/1459.htm), [An-An Liu](http://seea.tju.edu.cn/info/1014/1508.htm), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2020.*
   <br>
-  [[PDF](https://my-publications.yyliu.net/Mnemonics-Training-Multi-Class-Incremental-Learning-without-Forgetting.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://class-il.mpi-inf.mpg.de/mnemonics/)] [[BibTex](./BibTex/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://class-il.mpi-inf.mpg.de/mnemonics/)] [[BibTex](https://bib.yyliu.net/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
@@ -67,7 +68,7 @@ layout: homepage
   <br>
   *Thirty-third Conference on Neural Information Processing Systems **(NeurIPS)**, 2019.*
   <br>
-  [[PDF](https://my-publications.yyliu.net/Learning-to-Self-Train-for-Semi-Supervised-Few-Shot-Classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Project](https://lst.yyliu.net/)] [[BibTex](./BibTex/NeurIPS19.txt)]
+  [[PDF](https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Project](https://lst.yyliu.net/)] [[BibTex](https://bib.yyliu.net/NeurIPS19.txt)]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
@@ -77,7 +78,7 @@ layout: homepage
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2019.*
   <br>
-  [[PDF](https://my-publications.yyliu.net/Meta-Transfer-Learning-for-Few-Shot-Learning.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Media Coverage at NUS](https://www.comp.nus.edu.sg/news/features/2019-cvpr-research/)] [[BibTex](./BibTex/CVPR19.txt)]
+  [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Media Coverage at NUS](https://www.comp.nus.edu.sg/news/features/2019-cvpr-research/)] [[BibTex](https://bib.yyliu.net/CVPR19.txt)]
   <a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
@@ -105,19 +106,19 @@ layout: homepage
   <br>
   NeurIPS Official Meetups
   <br>
-  Beijing, China, December 2019 [[Slides](./files/learning-to-self-train-slides.pdf)]
+  Beijing, China, December 2019 [[Slides](https://yliu.de/files/learning-to-self-train-slides.pdf)]
 
 - **Multi-Class Incremental Learning**
   <br>
   School of Computer Science and Engineering, Nanyang Technological University
   <br>
-  Singapore, July 2019 [[Slides](./files/multi-class-incremental-learning.pdf)]
+  Singapore, July 2019 [[Slides](https://yliu.de/files/multi-class-incremental-learning.pdf)]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
   School of Computing, National University of Singapore
   <br>
-  Singapore, April 2019 [[Slides](./files/meta-transfer-learning-slides.pdf)]
+  Singapore, April 2019 [[Slides](https://yliu.de/files/meta-transfer-learning-slides.pdf)]
 -->
 
 ## Services
@@ -146,12 +147,12 @@ layout: homepage
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>NeurIPS <a href="https://neurips.cc/Conferences/2020"><autocolor>2020</autocolor></a>, <a href="https://neurips.cc/Conferences/2021"><autocolor>2021</autocolor></a></li>
   <li>ICCV <a href="http://iccv2021.thecvf.com/"><autocolor>2021</autocolor></a></li>
   <li>ICML <a href="https://icml.cc/Conferences/2021"><autocolor>2021</autocolor></a></li>
   <li>CVPR <a href="http://cvpr2021.thecvf.com/"><autocolor>2021</autocolor></a></li>
   <li>AAAI <a href="https://aaai.org/Conferences/AAAI-21/"><autocolor>2021</autocolor></a></li>
   <li>ACM MM <a href="https://2021.acmmm.org/"><autocolor>2021</autocolor></a></li>  
-  <li>NeurIPS <a href="https://neurips.cc/Conferences/2020"><autocolor>2020</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
