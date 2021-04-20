@@ -141,7 +141,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <h4 style="margin:0 10px 0;">Conference Senior PC Member</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>IJCAI <a href="https://ijcai-21.org/"><autocolor>2021</autocolor></a></li>
+  <li><a href="https://ijcai-21.org/"><autocolor>IJCAI 2021</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
