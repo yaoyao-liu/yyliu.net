@@ -123,7 +123,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## Teaching
 
-- Teaching Assistant, [High Level Computer Vision](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1/ss-2021-high-level-computer-vision) at [Universität des Saarlandes](https://www.uni-saarland.de/), SS2021 ([Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele)) 
+- Teaching Assistant, [High Level Computer Vision](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1/ss-2021-high-level-computer-vision) at [Universität des Saarlandes](https://www.uni-saarland.de/), Summer Semester 2021
 
 ## Services
 
