@@ -121,6 +121,10 @@ My research lies at the intersection of **computer vision** and **machine learni
   Singapore, April 2019 [[Slides](https://yliu.de/files/meta-transfer-learning-slides.pdf)]
 -->
 
+## Teaching
+
+- Teaching Assistant, [High Level Computer Vision](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1/ss-2021-high-level-computer-vision) at [Universität des Saarlandes](https://www.uni-saarland.de/), SS2021 ([Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele)) 
+
 ## Services
 
 <h4 style="margin:0 10px 0;">Conference Co-organizer</h4>
