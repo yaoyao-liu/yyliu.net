@@ -10,13 +10,13 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## News
 
-- **[Mar. 2021]** Our paper about class-incremental learning is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
-- **[Aug. 2020]** Our paper about few-shot learning is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
-- **[July 2020]** Our paper about few-shot learning is accepted to [ECCV 2020](https://eccv2020.eu/).
-- **[Feb. 2020]** Our paper about class-incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
+- **[Mar. 2021]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2010.05063.pdf) is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
+- **[Aug. 2020]** Our paper about [few-shot learning](https://my-publications.yyliu.net/Meta-Transfer-Learning-through-Hard-Tasks.pdf) is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
+- **[July 2020]** Our paper about [few-shot learning](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf) is accepted to [ECCV 2020](https://eccv2020.eu/).
+- **[Feb. 2020]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2002.10211.pdf) is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
 - **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Sept. 2019]** Our paper about [few-shot learning](https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf) is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
+- **[Mar. 2019]** Our paper about [few-shot learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf) is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 
 ## Publications
 
