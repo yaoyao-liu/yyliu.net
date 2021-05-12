@@ -27,7 +27,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2021.*
   <br> 
   [[PDF](https://arxiv.org/pdf/2010.05063.pdf)] [[Code](https://git.io/JYHyt)] [[Project](https://class-il.mpi-inf.mpg.de/)] [[BibTex](https://bib.yyliu.net/CVPR21.txt)]
-  <a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
+  <a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
   <script>
   githubStars("yaoyao-liu/class-incremental-learning", function(stars) {
   var startext = document.getElementById("githubstars_manets");
