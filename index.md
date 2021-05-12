@@ -78,8 +78,9 @@ My research lies at the intersection of **computer vision** and **machine learni
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2019.*
   <br>
-  [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Media Coverage at NUS](https://www.comp.nus.edu.sg/news/features/2019-cvpr-research/)] [[BibTex](https://bib.yyliu.net/CVPR19.txt)]
-  <a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> Stars on GitHub</i></strong></a>
+  [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[BibTex](https://bib.yyliu.net/CVPR19.txt)]
+<br>
+<a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/features/2019-cvpr-research/">• <i>Media Coverage at NUS</i></a>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
   var startext = document.getElementById("githubstars_mtl");
