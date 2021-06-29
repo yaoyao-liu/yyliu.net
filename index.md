@@ -88,39 +88,6 @@ My research lies at the intersection of **computer vision** and **machine learni
   });
   </script>
 
-<!--
-## Selected Talks
-
-- **Annotation-Efficient Learning: Class-Incremental Learning and Few-Shot Learning**
-  <br>
-  School of Information Systems, Singapore Management University (Online) 
-  <br>
-  Singapore, September 2020 [[Slides](./files/annotation-efficient-learning.pdf)]
-
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  CVPR Oral Presentation (Online) 
-  <br>
-  Seattle, WA, United States, June 2020 [[Video](https://youtu.be/nATUgAiaaCs)]
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  NeurIPS Official Meetups
-  <br>
-  Beijing, China, December 2019 [[Slides](https://yliu.de/files/learning-to-self-train-slides.pdf)]
-
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://yliu.de/files/multi-class-incremental-learning.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://yliu.de/files/meta-transfer-learning-slides.pdf)]
--->
 
 ## Teaching
 
