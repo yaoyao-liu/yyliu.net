@@ -120,12 +120,14 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://iclr.cc/Conferences/2022"><autocolor>ICLR 2022</autocolor></a></li>
-  <li><a href="https://neurips.cc/Conferences/2020"><autocolor>NeurIPS 2020-2021</autocolor></a></li>
+  <li><a href="https://ijcai-22.org/"><autocolor>IJCAI 2021-2022</autocolor></a></li>
+  <li><a href="https://neurips.cc/Conferences/2021"><autocolor>NeurIPS 2020-2021</autocolor></a></li>
   <li><a href="http://iccv2021.thecvf.com/"><autocolor>ICCV 2021</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2021"><autocolor>ICML 2021</autocolor></a></li>
   <li><a href="http://cvpr2021.thecvf.com/"><autocolor>CVPR 2021</autocolor></a></li>
   <li><a href="https://aaai.org/Conferences/AAAI-21/"><autocolor>AAAI 2021</autocolor></a></li>
   <li><a href="https://2021.acmmm.org/"><autocolor>ACM MM 2021</autocolor></a></li>  
+  <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
 </ul>
 
