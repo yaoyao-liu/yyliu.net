@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), working with [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the National University of Singapore, working with Prof. Tat-Seng Chua and Prof. Qianru Sun. I obtained my bachelor’s degree from Tianjin University. 
+I am a Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), working with [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the National University of Singapore, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and Prof. Qianru Sun. I obtained my bachelor’s degree from Tianjin University. 
 
 My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **few-shot learning**, **class-incremental learning**, **semi-supervised learning**, and **image generation**.
 
@@ -110,7 +110,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2021.thecvf.com/"><autocolor>CVPR 2021</autocolor></a></li>
+  <li><a href="http://cvpr2022.thecvf.com/"><autocolor>CVPR 2021-2022</autocolor></a></li>
   <li><a href="http://iccv2021.thecvf.com/"><autocolor>ICCV 2021</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2021"><autocolor>NeurIPS 2020-2021</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2021"><autocolor>ICML 2021</autocolor></a></li>
