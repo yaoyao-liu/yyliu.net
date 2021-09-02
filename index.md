@@ -26,7 +26,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2021.*
   <br> 
-  [[PDF](https://arxiv.org/pdf/2010.05063.pdf)] [[Code](https://git.io/JYHyt)] [[Webpage](https://class-il.mpi-inf.mpg.de/)] [[BibTex](https://bib.yyliu.net/CVPR21.txt)]
+  [[PDF](https://arxiv.org/pdf/2010.05063.pdf)] [[Code](https://git.io/JYHyt)] [[Project Page](https://class-il.mpi-inf.mpg.de/)] [[BibTex](https://bib.yyliu.net/CVPR21.txt)]
   <a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
   <script>
   githubStars("yaoyao-liu/class-incremental-learning", function(stars) {
@@ -51,7 +51,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <br>
   *European Conference on Computer Vision **(ECCV)**, 2020.*
   <br> 
-  [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Webpage](https://e3bm.yyliu.net/)] [[BibTex](https://bib.yyliu.net/ECCV20.txt)]
+  [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Project Page](https://e3bm.yyliu.net/)] [[BibTex](https://bib.yyliu.net/ECCV20.txt)]
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -59,7 +59,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2020.*
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Webpage](https://class-il.mpi-inf.mpg.de/mnemonics/)] [[BibTex](https://bib.yyliu.net/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project Page](https://class-il.mpi-inf.mpg.de/mnemonics/)] [[BibTex](https://bib.yyliu.net/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
@@ -68,7 +68,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <br>
   *Thirty-third Conference on Neural Information Processing Systems **(NeurIPS)**, 2019.*
   <br>
-  [[PDF](https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Webpage](https://lst.yyliu.net/)] [[BibTex](https://bib.yyliu.net/NeurIPS19.txt)]
+  [[PDF](https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Project Page](https://lst.yyliu.net/)] [[BibTex](https://bib.yyliu.net/NeurIPS19.txt)]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
@@ -78,7 +78,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2019.*
   <br>
-  [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Webpage](https://mtl.yyliu.net/)] [[BibTex](https://bib.yyliu.net/CVPR19.txt)]
+  [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project Page](https://mtl.yyliu.net/)] [[BibTex](https://bib.yyliu.net/CVPR19.txt)]
 <br>
 <a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Media Coverage at NUS</i></a>
   <script>
