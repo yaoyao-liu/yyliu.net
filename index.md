@@ -43,7 +43,15 @@ My research lies at the intersection of **computer vision** and **machine learni
         startext.innerHTML=stars;
   });
   </script>
-
+  
+- **Learning to Teach and Learn for Semi-Supervised Few-Shot Image Classification**
+  <br>
+  [Xinzhe Li](https://openreview.net/profile?id=~Xinzhe_Li1), [Jianqiang Huang](https://scholar.google.com.hk/citations?user=UqAybqgAAAAJ&hl=en), **Yaoyao Liu**, [Qin Zhou](https://scholar.google.com/citations?user=LtWsD3QAAAAJ&hl=en), [Shibao Zheng](https://icne.sjtu.edu.cn/info/1045/1059.htm), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  <br>
+  *Computer Vision and Image Understanding **(CVIU)**, 2021.*
+  <br>
+  [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1077314221001144)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]  [[BibTex](https://bib.yyliu.net/CVIU21.txt)]
+  
 - **Meta-Transfer Learning through Hard Tasks**
   <br>
   [Qianru Sun](https://qianrusun1015.github.io/)\*, **Yaoyao Liu\***, [Zhaozheng Chen](https://zhaozhengchen.github.io/), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
