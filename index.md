@@ -10,6 +10,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## News
 
+- **[Sept. 2021]** Our paper about class-incremental learning is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Mar. 2021]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2010.05063.pdf) is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
 - **[Aug. 2020]** Our paper about [few-shot learning](https://my-publications.yyliu.net/Meta-Transfer-Learning-through-Hard-Tasks.pdf) is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
 - **[July 2020]** Our paper about [few-shot learning](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf) is accepted to [ECCV 2020](https://eccv2020.eu/).
@@ -20,6 +21,13 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## Publications
 
+- **RMM: Reinforced Memory Management for Class-Incremental Learning**
+  <br>
+  **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  <br>
+  *Thirty-fifth Conference on Neural Information Processing Systems **(NeurIPS)**, 2021.*
+  <br> 
+  
 - **Adaptive Aggregation Networks for Class-Incremental Learning**
   <br>
   **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
