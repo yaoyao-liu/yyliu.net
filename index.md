@@ -46,7 +46,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   
 - **Meta-Transfer Learning through Hard Tasks**
   <br>
-  [Qianru Sun](https://qianrusun1015.github.io/)\*, **Yaoyao Liu\***, [Zhaozheng Chen](https://zhaozhengchen.github.io/), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
+  [Qianru Sun](https://qianrusun1015.github.io/),\* **Yaoyao Liu**,**\*** [Zhaozheng Chen](https://zhaozhengchen.github.io/), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
   <br>
   (\*=Equal contribution)
   <br>
@@ -81,7 +81,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
-  [Qianru Sun](https://qianrusun1015.github.io/)\*, **Yaoyao Liu\***, [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
+  [Qianru Sun](https://qianrusun1015.github.io/),\* **Yaoyao Liu**,**\*** [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
   <br>
   (\*=Equal contribution)
   <br>
