@@ -93,7 +93,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <br>
   [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project Page](https://mtl.yyliu.net/)] [[BibTex](https://bib.yyliu.net/CVPR19.txt)]
 <br>
-<a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Media Coverage at NUS</i></a>
+<a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>460+ Citations</i> • <i>Media Coverage at NUS</i></a>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
   var startext = document.getElementById("githubstars_mtl");
