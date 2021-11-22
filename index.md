@@ -131,8 +131,10 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="https://aaai.org/Conferences/AAAI-22/"><autocolor>AAAI 2021-2022</autocolor></a></li>
   <li><a href="https://ijcai-22.org/"><autocolor>IJCAI 2021-2022</autocolor></a></li>
   <li><a href="https://2021.acmmm.org/"><autocolor>ACM MM 2021</autocolor></a></li>  
+  <!--
   <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
+  -->
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -143,6 +145,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
   <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
+  <!--
   <li><a href="https://www.journals.elsevier.com/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/10994"><autocolor>Machine Learning</autocolor></a></li>
   <li><a href="https://www.journals.elsevier.com/information-processing-and-management"><autocolor>Information Processing and Management</autocolor></a></li>
@@ -150,4 +153,5 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="https://link.springer.com/journal/11042"><autocolor>Multimedia Tools and Applications</autocolor></a></li>
   <li><a href="https://ieeeaccess.ieee.org/"><autocolor>IEEE Access</autocolor></a></li>
   <li><a href="http://cjc.ict.ac.cn/"><autocolor>Chinese Journal of Computers</autocolor></a></li>
+  -->
 </ul>
