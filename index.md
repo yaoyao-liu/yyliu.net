@@ -108,7 +108,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Co-organizer</h4>
+<h4 style="margin:0 10px 0;">Conference Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia), 2020</autocolor></a></li>
