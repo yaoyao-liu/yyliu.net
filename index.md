@@ -93,7 +93,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <br>
   [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project Page](https://mtl.yyliu.net/)] [[BibTex](https://bib.yyliu.net/CVPR19.txt)]
 <br>
-<a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC">• <i>460+ Citations</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Media Coverage at NUS</i></a>
+<a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC">• <i>470+ Citations</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Media Coverage at NUS</i></a>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
   var startext = document.getElementById("githubstars_mtl");
@@ -141,6 +141,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision</autocolor></a></li>
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing</autocolor></a></li>
+  <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering</autocolor></a></li>
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor>IEEE Transactions on Multimedia</autocolor></a></li>
   <li><a href="https://www.journals.elsevier.com/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/10994"><autocolor>Machine Learning</autocolor></a></li>
