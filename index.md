@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), advised by [Prof. Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the National University of Singapore, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and Prof. Qianru Sun. I obtained my bachelor’s degree from Tianjin University. 
+I am currently a Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), advised by [Prof. Dr. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the National University of Singapore, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and Prof. Qianru Sun. I obtained my bachelor’s degree from Tianjin University. 
 
 My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **few-shot learning**, **class-incremental learning**, **semi-supervised learning**, and **image generation**.
 
@@ -27,7 +27,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 - **RMM: Reinforced Memory Management for Class-Incremental Learning**
   <br>
-  **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  **Yaoyao Liu**, [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
   *Thirty-fifth Conference on Neural Information Processing Systems **(NeurIPS)**, 2021.*
   <br> 
@@ -35,7 +35,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   
 - **Adaptive Aggregation Networks for Class-Incremental Learning**
   <br>
-  **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  **Yaoyao Liu**, [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2021.*
   <br> 
@@ -50,7 +50,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   
 - **Meta-Transfer Learning through Hard Tasks**
   <br>
-  [Qianru Sun](https://qianrusun1015.github.io/),\* **Yaoyao Liu**,**\*** [Zhaozheng Chen](https://zhaozhengchen.github.io/), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
+  [Qianru Sun](https://qianrusun1015.github.io/),\* **Yaoyao Liu**,**\*** [Zhaozheng Chen](https://zhaozhengchen.github.io/), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/)
   <br>
   (\*=Equal contribution)
   <br>
@@ -60,7 +60,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 - **An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning**
   <br>
-  **Yaoyao Liu**, [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  **Yaoyao Liu**, [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
   *European Conference on Computer Vision **(ECCV)**, 2020.*
   <br> 
@@ -68,7 +68,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
-  **Yaoyao Liu**, [Yuting Su](http://seea.tju.edu.cn/info/1014/1459.htm), [An-An Liu](http://seea.tju.edu.cn/info/1014/1508.htm), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  **Yaoyao Liu**, [Yuting Su](http://seea.tju.edu.cn/info/1014/1459.htm), [An-An Liu](http://seea.tju.edu.cn/info/1014/1508.htm), [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
   <br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2020.*
   <br>
@@ -77,7 +77,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
-  [Xinzhe Li](https://openreview.net/profile?id=~Xinzhe_Li1), [Qianru Sun](https://qianrusun1015.github.io/), **Yaoyao Liu**, [Shibao Zheng](https://icne.sjtu.edu.cn/info/1045/1059.htm), [Qin Zhou](https://scholar.google.com/citations?user=LtWsD3QAAAAJ&hl=en), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
+  [Xinzhe Li](https://openreview.net/profile?id=~Xinzhe_Li1), [Qianru Sun](https://qianrusun1015.github.io/), **Yaoyao Liu**, [Shibao Zheng](https://icne.sjtu.edu.cn/info/1045/1059.htm), [Qin Zhou](https://scholar.google.com/citations?user=LtWsD3QAAAAJ&hl=en), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/)
   <br>
   *Thirty-third Conference on Neural Information Processing Systems **(NeurIPS)**, 2019.*
   <br>
@@ -85,7 +85,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
-  [Qianru Sun](https://qianrusun1015.github.io/),\* **Yaoyao Liu**,**\*** [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
+  [Qianru Sun](https://qianrusun1015.github.io/),\* **Yaoyao Liu**,**\*** [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/)
   <br>
   (\*=Equal contribution)
   <br>
