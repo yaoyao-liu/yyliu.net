@@ -134,7 +134,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</div>
-      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="author"><strong>Yaoyao Liu</strong>, <a href="http://seea.tju.edu.cn/info/1014/1459.htm">Yuting Su</a>, <a href="http://seea.tju.edu.cn/info/1014/1508.htm">An-An Liu</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
       </div>
     <div class="links">
