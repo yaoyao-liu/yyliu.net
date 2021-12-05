@@ -10,6 +10,7 @@
 	text-align:left;
 	color:#fff;
 	position:fixed;
+	z-index:999;
 }
 
 #head2o2 {

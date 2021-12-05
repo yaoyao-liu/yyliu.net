@@ -23,23 +23,49 @@ My research lies at the intersection of **computer vision** and **machine learni
 - **[Sept. 2019]** Our paper about [few-shot learning](https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf) is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
 - **[Mar. 2019]** Our paper about [few-shot learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf) is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 
-## Publications
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-- **RMM: Reinforced Memory Management for Class-Incremental Learning**
-  <br>
-  **Yaoyao Liu**, [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
-  <br>
-  *Thirty-fifth Conference on Neural Information Processing Systems **(NeurIPS)**, 2021.*
-  <br> 
-  [[PDF](https://openreview.net/pdf?id=BfPzZSype5M)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/rmm/)] [[Project Page](https://class-il.mpi-inf.mpg.de/rmm/)] [[BibTex](https://bib.yyliu.net/NeurIPS21.txt)]
-  
-- **Adaptive Aggregation Networks for Class-Incremental Learning**
-  <br>
-  **Yaoyao Liu**, [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
-  <br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2021.*
-  <br> 
-  [[PDF](https://arxiv.org/pdf/2010.05063.pdf)] [[Code](https://git.io/JYHyt)] [[Project Page](https://class-il.mpi-inf.mpg.de/)] [[BibTex](https://bib.yyliu.net/CVPR21.txt)]
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="row" style="display: flex; align-items: center;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="images/teaser/RMM.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">NeurIPS</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">RMM: Reinforced Memory Management for Class-Incremental Learning</div>
+      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://openreview.net/pdf?id=BfPzZSype5M" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/rmm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://class-il.mpi-inf.mpg.de/rmm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://bib.yyliu.net/NeurIPS21.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="row" style="display: flex; align-items: center;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="images/teaser/AANets.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">CVPR</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Adaptive Aggregation Networks for Class-Incremental Learning</div>
+      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2010.05063.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://git.io/JYHyt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://class-il.mpi-inf.mpg.de/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://bib.yyliu.net/CVPR21.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
   <a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
   <script>
   githubStars("yaoyao-liu/class-incremental-learning", function(stars) {
@@ -47,51 +73,122 @@ My research lies at the intersection of **computer vision** and **machine learni
         startext.innerHTML=stars;
   });
   </script>
-  
-- **Meta-Transfer Learning through Hard Tasks**
-  <br>
-  [Qianru Sun](https://qianrusun1015.github.io/),\* **Yaoyao Liu**,**\*** [Zhaozheng Chen](https://zhaozhengchen.github.io/), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/)
-  <br>
-  (\*=Equal contribution)
-  <br>
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2020.*
-  <br> 
-  [[PDF](https://my-publications.yyliu.net/Meta-Transfer-Learning-through-Hard-Tasks.pdf)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/9173698)]  [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[BibTex](https://bib.yyliu.net/TPAMI20.txt)]
+    </div>
+  </div>
+</div>
+</li>
 
-- **An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning**
-  <br>
-  **Yaoyao Liu**, [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
-  <br>
-  *European Conference on Computer Vision **(ECCV)**, 2020.*
-  <br> 
-  [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf)] [[Code](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm)] [[Project Page](https://e3bm.yyliu.net/)] [[BibTex](https://bib.yyliu.net/ECCV20.txt)]
+<br>
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, [Yuting Su](http://seea.tju.edu.cn/info/1014/1459.htm), [An-An Liu](http://seea.tju.edu.cn/info/1014/1508.htm), [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
-  <br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2020.*
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project Page](https://class-il.mpi-inf.mpg.de/mnemonics/)] [[BibTex](https://bib.yyliu.net/CVPR20.txt)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+<li>
+<div class="row" style="display: flex; align-items: center;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="images/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">TPAMI</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Meta-Transfer Learning through Hard Tasks</div>
+      <div class="author"><a href="https://qianrusun1015.github.io/">Qianru Sun</a>,* <strong>Yaoyao Liu</strong>,<strong>*</strong> <a href="https://zhaozhengchen.github.io/">Zhaozheng Chen</a>, <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a> (*=Equal contribution)</div>
+      <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2020.</em>
+      </div>
+    <div class="links">
+      <a href="https://my-publications.yyliu.net/Meta-Transfer-Learning-through-Hard-Tasks.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://bib.yyliu.net/TPAMI20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="row" style="display: flex; align-items: center;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="images/teaser/E3BM.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ECCV</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning</div>
+      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.</em>
+      </div>
+    <div class="links">
+      <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://e3bm.yyliu.net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://bib.yyliu.net/ECCV20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  [Xinzhe Li](https://openreview.net/profile?id=~Xinzhe_Li1), [Qianru Sun](https://qianrusun1015.github.io/), **Yaoyao Liu**, [Shibao Zheng](https://icne.sjtu.edu.cn/info/1045/1059.htm), [Qin Zhou](https://scholar.google.com/citations?user=LtWsD3QAAAAJ&hl=en), [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/)
-  <br>
-  *Thirty-third Conference on Neural Information Processing Systems **(NeurIPS)**, 2019.*
-  <br>
-  [[PDF](https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Project Page](https://lst.yyliu.net/)] [[BibTex](https://bib.yyliu.net/NeurIPS19.txt)]
+<br>
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  [Qianru Sun](https://qianrusun1015.github.io/),\* **Yaoyao Liu**,**\*** [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/)
-  <br>
-  (\*=Equal contribution)
-  <br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2019.*
-  <br>
-  [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project Page](https://mtl.yyliu.net/)] [[BibTex](https://bib.yyliu.net/CVPR19.txt)]
+<li>
+<div class="row" style="display: flex; align-items: center;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="images/teaser/mnemonics.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">CVPR</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</div>
+      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://bib.yyliu.net/CVPR20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="row" style="display: flex; align-items: center;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="images/teaser/LST.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">NeurIPS</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Learning to Self-Train for Semi-Supervised Few-Shot Classification</div>
+      <div class="author"><a href="https://openreview.net/profile?id=~Xinzhe_Li1">Xinzhe Li</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a>, <strong>Yaoyao Liu</strong>, <a href="https://icne.sjtu.edu.cn/info/1045/1059.htm">Shibao Zheng</a>, <a href="https://scholar.google.com/citations?user=LtWsD3QAAAAJ&amp;hl=en">Qin Zhou</a>, <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a></div>
+      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/xinzheli1217/learning-to-self-train" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://lst.yyliu.net/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://bib.yyliu.net/NeurIPS19.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="row" style="display: flex; align-items: center;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="images/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">CVPR</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Meta-Transfer Learning for Few-Shot Learning</div>
+      <div class="author"><a href="https://qianrusun1015.github.io/">Qianru Sun</a>,* <strong>Yaoyao Liu</strong>,<strong>*</strong> <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a> (*=Equal contribution)</div>
+      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em>
+      </div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://mtl.yyliu.net/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://bib.yyliu.net/CVPR19.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
 <br>
 <a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC">• <i>470+ Citations</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Media Coverage at NUS</i></a>
   <script>
@@ -100,7 +197,13 @@ My research lies at the intersection of **computer vision** and **machine learni
         startext.innerHTML=stars;
   });
   </script>
+    </div>
+  </div>
+</div>
+</li>
 
+</ol>
+</div>
 
 ## Teaching
 
