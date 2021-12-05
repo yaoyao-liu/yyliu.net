@@ -28,7 +28,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <div class="publications">
 <ol class="bibliography">
 <li>
-<div class="row" style="display: flex; align-items: center;">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="images/teaser/RMM.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
@@ -51,7 +51,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <br>
 
 <li>
-<div class="row" style="display: flex; align-items: center;">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="images/teaser/AANets.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
@@ -81,7 +81,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <br>
 
 <li>
-<div class="row" style="display: flex; align-items: center;">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="images/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TPAMI</abbr>
@@ -103,7 +103,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <br>
 
 <li>
-<div class="row" style="display: flex; align-items: center;">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="images/teaser/E3BM.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ECCV</abbr>
@@ -127,7 +127,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <br>
 
 <li>
-<div class="row" style="display: flex; align-items: center;">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="images/teaser/mnemonics.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
@@ -151,7 +151,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <br>
 
 <li>
-<div class="row" style="display: flex; align-items: center;">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="images/teaser/LST.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
@@ -174,7 +174,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <br>
 
 <li>
-<div class="row" style="display: flex; align-items: center;">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="images/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
