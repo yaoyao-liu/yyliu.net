@@ -190,7 +190,7 @@ My research lies at the intersection of **computer vision** and **machine learni
       <a href="https://mtl.yyliu.net/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yyliu.net/CVPR19.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
 <br>
-<a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC">• <i>480+ Citations</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Media Coverage at NUS</i></a>
+<a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC"><i>480+ Citations • </i></a><a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Featured in NUS News</i></a>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
   var startext = document.getElementById("githubstars_mtl");
