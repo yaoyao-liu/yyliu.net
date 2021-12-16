@@ -260,7 +260,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   -->
 </ul>
 
-
+<br>
 ## Contact
 
 **Address**: [Campus E1.4](https://g.page/MPI-INF?share), 66123 Saarbrücken, Germany
