@@ -263,7 +263,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## Contact
 
-**Address**: Campus E1.4, 66123 Saarbrücken, Germany
+**Address**: [Campus E1.4](https://g.page/MPI-INF?share), 66123 Saarbrücken, Germany
 <br>
 **Phone**: +49 681 9325 2109
 <br>
