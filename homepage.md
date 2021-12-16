@@ -259,3 +259,12 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="http://cjc.ict.ac.cn/"><autocolor>Chinese Journal of Computers</autocolor></a></li>
   -->
 </ul>
+
+
+## Contact
+
+**Address**: [Campus E1.4](https://g.page/MPI-INF?share), 66123 Saarbrücken, Germany
+<br>
+**Tel**: +49 681 9325 2109
+<br>
+**Fax**: +49 681 9325 2099
