@@ -259,5 +259,3 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="http://cjc.ict.ac.cn/"><autocolor>Chinese Journal of Computers</autocolor></a></li>
   -->
 </ul>
-
-<br>
