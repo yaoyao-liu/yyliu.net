@@ -18,20 +18,23 @@ body {
   display:inline-block;
   height:2.4rem;
   width:2.4rem;
-  background-color:#495057;
-  color:#fff!important;
+  background-color:transparent;
+  color:#043361!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
   margin-right:1rem}
 
+@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
+
 .social-icons a:last-child{
   margin-right:0}
 
 .social-icons a:hover{
-  background-color:#000000}
+  background-color:#38b3f5;}
 
+@media (prefers-color-scheme: dark) { .social-icons a:hover { background-color: #043361; }}
 
 .icon-button{
   background-color:white;
