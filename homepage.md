@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), advised by [Prof. Dr. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the National University of Singapore, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and Prof. Qianru Sun. I obtained my bachelor’s degree from Tianjin University. 
+I am currently a Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), advised by [Prof. Dr. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and Prof. Qianru Sun. I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
 
 My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **few-shot learning**, **class-incremental learning**, **semi-supervised learning**, and **image generation**.
 
@@ -207,17 +207,17 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## Teaching
 
-- Teaching Assistant, [High Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Universität des Saarlandes](https://www.uni-saarland.de/), SS 2021
+- Teaching Assistant, [High Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Universität des Saarlandes](https://www.uni-saarland.de/), 2021-2022
 
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Organization Committee</h4>
+<h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia), 2020</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference Senior PC Member</h4>
+<h4 style="margin:0 10px 0;">Senior PC Member</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://ijcai-21.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI), 2021</autocolor></a></li>
