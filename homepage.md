@@ -164,7 +164,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <div class="links">
       <a href="https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/xinzheli1217/learning-to-self-train" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://lst.yyliu.net/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://lyy.mpi-inf.mpg.de/lst/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yyliu.net/NeurIPS19.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
