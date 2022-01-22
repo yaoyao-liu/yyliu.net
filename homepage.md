@@ -159,7 +159,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Learning to Self-Train for Semi-Supervised Few-Shot Classification</div>
       <div class="author"><a href="https://openreview.net/profile?id=~Xinzhe_Li1">Xinzhe Li</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a>, <strong>Yaoyao Liu</strong>, <a href="https://icne.sjtu.edu.cn/info/1045/1059.htm">Shibao Zheng</a>, <a href="https://scholar.google.com/citations?user=LtWsD3QAAAAJ&amp;hl=en">Qin Zhou</a>, <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a></div>
-      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
+      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2019.</em>
       </div>
     <div class="links">
       <a href="https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
