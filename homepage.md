@@ -92,7 +92,8 @@ My research lies at the intersection of **computer vision** and **machine learni
       <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2020.</em>
       </div>
     <div class="links">
-      <a href="https://my-publications.yyliu.net/Meta-Transfer-Learning-through-Hard-Tasks.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/1910.03648.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1109/TPAMI.2020.3018506" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://bib.yyliu.net/TPAMI20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
