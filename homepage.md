@@ -261,6 +261,7 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="http://cjc.ict.ac.cn/"><autocolor>Chinese Journal of Computers</autocolor></a></li>
   -->
 </ul>
+<br>
 
 ## Contact
 **Address:** [*Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken*](https://g.page/MPI-INF)
