@@ -34,8 +34,8 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">NeurIPS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">RMM: Reinforced Memory Management for Class-Incremental Learning</div>
-      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="title"><a href="https://openreview.net/pdf?id=BfPzZSype5M">RMM: Reinforced Memory Management for Class-Incremental Learning</a></div>
+      <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
       </div>
     <div class="links">
@@ -57,8 +57,8 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Adaptive Aggregation Networks for Class-Incremental Learning</div>
-      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="title"><a href="https://arxiv.org/pdf/2010.05063.pdf">Adaptive Aggregation Networks for Class-Incremental Learning</a></div>
+      <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.</em>
       </div>
     <div class="links">
@@ -87,8 +87,8 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">TPAMI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Meta-Transfer Learning through Hard Tasks</div>
-      <div class="author"><a href="https://qianrusun1015.github.io/">Qianru Sun</a>,* <strong>Yaoyao Liu</strong>,<strong>*</strong> <a href="https://zhaozhengchen.github.io/">Zhaozheng Chen</a>, <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a> (*=Equal contribution)</div>
+      <div class="title"><a href="https://arxiv.org/pdf/1910.03648.pdf">Meta-Transfer Learning through Hard Tasks</a></div>
+      <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
       <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2020.</em>
       </div>
     <div class="links">
@@ -110,8 +110,8 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">ECCV</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning</div>
-      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="title"><a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf">An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning</a></div>
+      <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.</em>
       </div>
     <div class="links">
@@ -134,8 +134,8 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</div>
-      <div class="author"><strong>Yaoyao Liu</strong>, <a href="http://seea.tju.edu.cn/info/1014/1459.htm">Yuting Su</a>, <a href="http://seea.tju.edu.cn/info/1014/1508.htm">An-An Liu</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
+      <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
       </div>
     <div class="links">
@@ -158,8 +158,8 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">NeurIPS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Learning to Self-Train for Semi-Supervised Few-Shot Classification</div>
-      <div class="author"><a href="https://openreview.net/profile?id=~Xinzhe_Li1">Xinzhe Li</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a>, <strong>Yaoyao Liu</strong>, <a href="https://icne.sjtu.edu.cn/info/1045/1059.htm">Shibao Zheng</a>, <a href="https://scholar.google.com/citations?user=LtWsD3QAAAAJ&amp;hl=en">Qin Zhou</a>, <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a></div>
+      <div class="title"><a href="https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf">Learning to Self-Train for Semi-Supervised Few-Shot Classification</a></div>
+      <div class="author">Xinzhe Li, Qianru Sun, <strong>Yaoyao Liu</strong>, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele</div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2019.</em>
       </div>
     <div class="links">
@@ -181,8 +181,8 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Meta-Transfer Learning for Few-Shot Learning</div>
-      <div class="author"><a href="https://qianrusun1015.github.io/">Qianru Sun</a>,* <strong>Yaoyao Liu</strong>,<strong>*</strong> <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a> (*=Equal contribution)</div>
+      <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf">Meta-Transfer Learning for Few-Shot Learning</a></div>
+      <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em>
       </div>
     <div class="links">
