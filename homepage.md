@@ -110,12 +110,12 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">ECCV</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf">An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning</a></div>
+      <div class="title"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf">An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.</em>
       </div>
     <div class="links">
-      <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://e3bm.yyliu.net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yyliu.net/ECCV20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
