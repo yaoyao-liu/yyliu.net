@@ -263,6 +263,6 @@ My research lies at the intersection of **computer vision** and **machine learni
 </ul>
 
 ## Contact
-**Address:** [*Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken*](https://g.page/MPI-INF)
+**Address:** [Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken](https://g.page/MPI-INF)
 <br>
 **Office Location:** E1 4 - 609 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** +49 681 9325 2109
