@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a third-year Ph.D. student in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), advised by [Prof. Dr. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
+I am currently a third-year Ph.D. student in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), advised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
 
 My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **few-shot learning**, **class-incremental learning**, **semi-supervised learning**, and **image generation**.
 
